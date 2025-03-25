@@ -1,2 +1,2 @@
-# BD-II-2025
-Este repositório contém todas as atividades desenvolvidas por mim durante o ano letivo de 2025 na disciplina de "Banco de Dados Parte II" *(BD).*
+# Atividade Bimestral 25/03
+Um Banco de Dados em SQL foi construído e manipulado nesta atividade. A problemática da Database se baseava em dados de uma rede de entregas.
