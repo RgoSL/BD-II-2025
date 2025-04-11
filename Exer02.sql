@@ -1,3 +1,0 @@
-SELECT NomeCD, DataCompra FROM CDs 
-ORDER BY NomeCD
-GO
